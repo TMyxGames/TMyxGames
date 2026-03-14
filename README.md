@@ -1,5 +1,7 @@
 ## 你好呀！(՞𓏼ᐢ ᵕ ᐢ𓏼՞)
 
+我是 **TMyx_Games** / **花海寻梦**
+
 <!--
 **TMyxGames/TMyxGames** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
